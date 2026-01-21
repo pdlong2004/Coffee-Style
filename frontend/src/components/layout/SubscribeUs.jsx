@@ -4,7 +4,7 @@ import Title from "./Title";
 
 const SubscribeUs = () => {
   return (
-    <div className="px-7.5">
+    <div className="relative left-1/2 right-1/2 -mx-[50vw] w-screen">
       <div className="py-20 px-25 text-center bg-[#1d1f2e]">
         <Title className={"m-0! text-[#a5a5ab]!"}>
           Sign up and get free coffee bags

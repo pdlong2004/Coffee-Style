@@ -29,10 +29,9 @@ const Blog = () => {
             <BlogContent blogs={blogs} />
           </div>
         </div>
-
-        <SubscribeUs />
-        <Footer />
       </div>
+      <SubscribeUs />
+      <Footer />
     </div>
   );
 };
