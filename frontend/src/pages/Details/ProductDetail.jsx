@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../../components/layout/Header";
-import ProductHeadSection from "./components/ProductHeadsection.jsx";
+import ProductHeadSection from "./components/ProductHeadSection.jsx";
 import ProductDetails from "./components/ProductDetails.jsx";
 import { useProductDetail } from "../../hooks/useProductDetail";
 import { useParams } from "react-router-dom";
