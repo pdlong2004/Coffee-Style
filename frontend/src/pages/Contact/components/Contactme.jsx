@@ -5,7 +5,7 @@ const Contactme = () => {
   return (
     <>
       <Title children="Contact me" />
-      <div className="lg:grid grid-cols-3 text-center">
+      <div className="flex flex-col space-y-2 lg:space-y-0 lg:grid grid-cols-3 text-center">
         <div className="uppercase text-sm tracking-widest text-gray-500 font-semibold">
           FullStack
         </div>
