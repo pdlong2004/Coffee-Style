@@ -1,7 +1,7 @@
 import React from "react";
 import ShowProducts from "../../../components/layout/ShowProducts";
 import useProduct from "../../../hooks/useProduct";
-import Title from "../../../components/layout/title";
+import Title from "../../../components/layout/Title.jsx";
 
 const ProductSimilar = () => {
   const { products } = useProduct();

@@ -1,6 +1,6 @@
 import React from "react";
-import Title from "../../../components/layout/title";
 import { history } from "../data/history";
+import Title from "../../../components/layout/Title";
 
 const AboutHistory = () => {
   const historyData = history;

@@ -1,5 +1,5 @@
 import React from "react";
-import Title from "../../../components/layout/title";
+import Title from "../../../components/layout/Title";
 
 const Contactme = () => {
   return (

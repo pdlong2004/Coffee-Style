@@ -1,5 +1,5 @@
 import ShowProducts from "../../../components/layout/ShowProducts";
-import Title from "../../../components/layout/title.jsx";
+import Title from "../../../components/layout/Title.jsx";
 import useProduct from "../../../hooks/useProduct.js";
 
 const HomeMore = () => {

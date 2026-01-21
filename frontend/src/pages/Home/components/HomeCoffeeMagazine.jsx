@@ -1,7 +1,7 @@
 import React from "react";
-import Title from "../../../components/layout/title";
 import { NavLink } from "react-router-dom";
 import Button from "./../../../components/layout/Button";
+import Title from "../../../components/layout/Title";
 
 const HomeCoffeeMagazine = () => {
   return (

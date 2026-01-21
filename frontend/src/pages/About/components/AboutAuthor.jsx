@@ -1,6 +1,6 @@
 import React from "react";
 import useAuthor from "../../../hooks/useAuthor";
-import Title from "../../../components/layout/title";
+import Title from "../../../components/layout/Title";
 
 const AboutAuthor = () => {
   const { authors } = useAuthor();

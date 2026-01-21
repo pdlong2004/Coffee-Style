@@ -1,6 +1,6 @@
 import React from "react";
-import Title from "../../../components/layout/title";
 import ShowAbout from "./ShowAbout.jsx";
+import Title from "../../../components/layout/Title.jsx";
 
 const AboutIntroductions = () => {
   return (
